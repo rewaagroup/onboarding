@@ -8,7 +8,7 @@ the right order, and remove the conflict markers.
 
 | Name | Specialisation | Profile |
 | --- | --- | --- |
-Sameer | Full Stack Software Developer | iSamirTech
+Sameer | Full Stack | iSamirTech
 
 ## Adding your file
 
