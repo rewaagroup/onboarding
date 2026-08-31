@@ -9,6 +9,7 @@ the right order, and remove the conflict markers.
 | Name | Specialisation | Profile |
 | --- | --- | --- |
 Sameer | Full Stack | iSamirTech
+Zaid | Full Stack | ZaidoGamerTech
 
 ## Adding your file
 
