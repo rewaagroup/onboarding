@@ -1,6 +1,6 @@
 # Zaid
 
-**Specialisation:** DevOps Developer
+**Specialisation:** Cloud and DevOps
 
 ## About
 
