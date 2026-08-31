@@ -1,6 +1,6 @@
 # Zaid
 
-**Specialisation:** Full Stack Developer
+**Specialisation:** DevOps Developer
 
 ## About
 
