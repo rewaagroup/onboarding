@@ -8,8 +8,10 @@ the right order, and remove the conflict markers.
 
 | Name | Specialisation | Profile |
 | --- | --- | --- |
+Mohamed | Backend | mohammadazzo99-create
 Sameer | Full Stack | iSamirTech
 Zaid | Cloud and DevOps | ZaidoGamerTech
+ 
 
 ## Adding your file
 
