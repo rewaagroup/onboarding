@@ -8,7 +8,7 @@ the right order, and remove the conflict markers.
 
 | Name | Specialisation | Profile |
 | --- | --- | --- |
-Mohamed | Backend | mohammadazzo99-create
+Mohamed | Backend | mohamed-azo
 Sameer | Full Stack | iSamirTech
 Zaid | Cloud and DevOps | ZaidoGamerTech
  
