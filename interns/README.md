@@ -11,10 +11,10 @@ the right order, and remove the conflict markers.
 | Asmaa | Backend & API | Asmaa-naser |
 | Dalia | Software Engineering | daliakhodair-gif |
 | Mohamed | Cloud & DevOps | mohamed-azo |
-| Sameer | Full Stack | iSamirTech |
+| Sameer | Full Stack SWE | iSamirTech |
 | Shahd | Cybersecurity | shahedaseap376-lab |
-| Zaid | Cloud and DevOps | ZaidoGamerTech |
-|Fatima | full stack |fatimaali-crypto |
+| Zaid | Cloud & DevOps | ZaidoGamerTech |
+|Fatima | Full Stack SWE | fatimaali-crypto |
 
 ## Adding your file
 
