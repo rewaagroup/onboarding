@@ -14,6 +14,7 @@ the right order, and remove the conflict markers.
 | Sameer | Full Stack | iSamirTech |
 | Shahd | Cybersecurity | shahedaseap376-lab |
 | Zaid | Cloud and DevOps | ZaidoGamerTech |
+|Fatima | full stack |fatimaali-crypto |
 
 ## Adding your file
 
