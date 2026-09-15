@@ -15,6 +15,7 @@ the right order, and remove the conflict markers.
 | Shahd | Cybersecurity | shahedaseap376-lab |
 | Zaid | Cloud & DevOps | ZaidoGamerTech |
 | Fatima | Full Stack SWE | fatimaali-crypto |
+| Ruqayah | Frontend SWE | ruqayah-debug |
 
 ## Adding your file
 
