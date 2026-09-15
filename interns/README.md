@@ -9,6 +9,7 @@ the right order, and remove the conflict markers.
 | Name | Specialisation | Profile |
 | --- | --- | --- |
 | Asmaa | Backend & API | Asmaa-naser |
+| Arjwan | Cybersecurity | arjwan-ali |
 | Dalia | Software Engineering | daliakhodair-gif |
 | Mohamed | Cloud & DevOps | mohamed-azo |
 | Sameer | Full Stack SWE | iSamirTech |
