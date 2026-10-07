@@ -17,7 +17,7 @@ the right order, and remove the conflict markers.
 | Zaid | Cloud & DevOps | ZaidoGamerTech |
 | Fatima | Full Stack SWE | fatimaali-crypto |
 | Ruqayah | Frontend SWE | ruqayah-debug |
-
+|Dunya|AI & Software|dunya-qaisar|
 ## Adding your file
 
 Copy [`TEMPLATE.md`](TEMPLATE.md) to `interns/your-name.md`, using lowercase and
